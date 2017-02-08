@@ -1,0 +1,10 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\bin\Debug\DiezNumerosNoRepetidos.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\bin\Debug\DiezNumerosNoRepetidos.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\bin\Debug\DiezNumerosNoRepetidos.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\bin\Debug\DiezNumerosNoRepetidos.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.vbprojResolveAssemblyReference.cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\DiezNumerosNoRepetidos\obj\Debug\DiezNumerosNoRepetidos.pdb

@@ -1,0 +1,10 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\bin\Debug\MotrarNumerosMayorMedia.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\bin\Debug\MotrarNumerosMayorMedia.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\bin\Debug\MotrarNumerosMayorMedia.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\bin\Debug\MotrarNumerosMayorMedia.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.vbprojResolveAssemblyReference.cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\MotrarNumerosMayorMedia\obj\Debug\MotrarNumerosMayorMedia.pdb

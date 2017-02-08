@@ -1,0 +1,14 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\bin\Debug\ValidadordeFecha.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\bin\Debug\ValidadordeFecha.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\bin\Debug\ValidadordeFecha.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\bin\Debug\ValidadordeFecha.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.vbprojResolveAssemblyReference.cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\ValidadordeFecha\obj\Debug\ValidadordeFecha.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\ProgramacionAvanzadaEnVisualBasic\ValidadordeFecha\bin\Debug\ValidadordeFecha.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\ProgramacionAvanzadaEnVisualBasic\ValidadordeFecha\obj\Debug\ValidadordeFecha.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\ProgramacionAvanzadaEnVisualBasic\ValidadordeFecha\obj\Debug\ValidadordeFecha.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\ProgramacionAvanzadaEnVisualBasic\ValidadordeFecha\obj\Debug\ValidadordeFecha.pdb

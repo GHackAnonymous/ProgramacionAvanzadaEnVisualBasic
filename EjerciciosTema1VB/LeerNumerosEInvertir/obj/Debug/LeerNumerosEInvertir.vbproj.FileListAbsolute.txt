@@ -1,0 +1,10 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\bin\Debug\LeerNumerosEInvertir.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\bin\Debug\LeerNumerosEInvertir.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\bin\Debug\LeerNumerosEInvertir.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\bin\Debug\LeerNumerosEInvertir.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.vbprojResolveAssemblyReference.cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\LeerNumerosEInvertir\obj\Debug\LeerNumerosEInvertir.pdb

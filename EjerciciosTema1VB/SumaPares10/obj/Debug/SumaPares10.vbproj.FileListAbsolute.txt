@@ -1,0 +1,10 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\bin\Debug\SumaPares10.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\bin\Debug\SumaPares10.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\bin\Debug\SumaPares10.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\bin\Debug\SumaPares10.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.vbprojResolveAssemblyReference.cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\SumaPares10\obj\Debug\SumaPares10.pdb

@@ -1,0 +1,9 @@
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\bin\Debug\NumerosImparesAl10.exe.config
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\bin\Debug\NumerosImparesAl10.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\bin\Debug\NumerosImparesAl10.pdb
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\bin\Debug\NumerosImparesAl10.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\obj\Debug\NumerosImparesAl10.Resources.resources
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\obj\Debug\NumerosImparesAl10.vbproj.GenerateResource.Cache
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\obj\Debug\NumerosImparesAl10.exe
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\obj\Debug\NumerosImparesAl10.xml
+D:\GHackAnonymous\Areas de Trabajo IDES\Visual Studio-VisualBasicWS\NumeroParInpar\NumerosImparesAl10\obj\Debug\NumerosImparesAl10.pdb
